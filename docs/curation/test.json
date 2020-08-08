@@ -1,0 +1,523 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json",
+    "@type": "cr:Curation",
+    "label": "Marker List",
+    "related": {
+        "@id": "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf",
+        "@type": "cr:MarkerLegend"
+    },
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json/range1",
+            "@type": "sc:Range",
+            "label": "Markers",
+            "members": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=2731,6490,7039,7525",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 1",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=2731,6490,7039,7525_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=2731,6490,7039,7525",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "四川道",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/25490,21697,277,457/30,60/0/default.jpg#xy=15,30",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "道額"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=3983,12595,4760,3639",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 2",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=3983,12595,4760,3639_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=3983,12595,4760,3639",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "貴州道",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/25490,21697,277,457/30,60/0/default.jpg#xy=15,30",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "道額"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=5869,16716,830,335",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 3",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=5869,16716,830,335_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=5869,16716,830,335",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "始安嶺",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶽"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=10325,15774,672,291",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 4",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=10325,15774,672,291_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=10325,15774,672,291",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "衡山",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶽"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=13692,7984,528,357",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 5",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=13692,7984,528,357_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=13692,7984,528,357",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "嵩山",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶽"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=18840,5998,360,188",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 6",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=18840,5998,360,188_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=18840,5998,360,188",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "岱山",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶽"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=19176,14931,140,322",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 7",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=19176,14931,140,322_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=19176,14931,140,322",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "霊隠寺（灵徳寺）",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五山"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=19261,14743,131,219",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 8",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=19261,14743,131,219_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=19261,14743,131,219",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "浄慈寺",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五山"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=21239,15804,119,239",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 9",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=21239,15804,119,239_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=21239,15804,119,239",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "廣利寺",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五山"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=21653,15705,120,293",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 10",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=21653,15705,120,293_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=21653,15705,120,293",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "天童寺",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五山"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=14316,2585,447,215",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 11",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=14316,2585,447,215_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=14316,2585,447,215",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "恒山",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶽"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11079,7341,336,234",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 12",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11079,7341,336,234_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11079,7341,336,234",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "華山",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶽"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=7874,17633,342,199",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 13",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=7874,17633,342,199_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=7874,17633,342,199",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "臨賀嶺",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶺"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=9836,17851,331,190",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 14",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=9836,17851,331,190_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=9836,17851,331,190",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "都龐嶺",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶺"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11077,17233,338,181",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 15",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11077,17233,338,181_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11077,17233,338,181",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "騎田嶺",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶺"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11932,18379,346,164",
+                    "@type": "sc:Canvas",
+                    "label": "Marker 16",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11932,18379,346,164_",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11932,18379,346,164",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "大庾嶺",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "種類",
+                            "value": "五嶺"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/map/iiif/main/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}
