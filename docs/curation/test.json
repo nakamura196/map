@@ -3,16 +3,16 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json",
+    "@id": "https://nakamura196.github.io/map/curation/test.json",
     "@type": "cr:Curation",
-    "label": "Marker List",
+    "label": "大明地理之図",
     "related": {
-        "@id": "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf",
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/20764,21600,5248,1568/1200,/0/default.jpg",
         "@type": "cr:MarkerLegend"
     },
     "selections": [
         {
-            "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json/range1",
+            "@id": "https://nakamura196.github.io/map/curation/test.json/range1",
             "@type": "sc:Range",
             "label": "Markers",
             "members": [

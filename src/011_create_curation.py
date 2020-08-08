@@ -9,6 +9,10 @@ import requests
 import os
 from bs4 import BeautifulSoup
 
+title = "大明地理之図"
+legend = "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/20764,21600,5248,1568/1200,/0/default.jpg"
+curation_id = "https://nakamura196.github.io/map/curation/test.json"
+
 iconMap = {
     "道額" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/25490,21697,277,457/30,60/0/default.jpg#xy=15,30",
     "五嶺": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
@@ -94,23 +98,23 @@ curation = {
     "http://iiif.io/api/presentation/2/context.json",
     "http://codh.rois.ac.jp/iiif/curation/1/context.json"
   ],
-  "label": "Marker List",
+  "label": title,
   "selections": [
     {
       "within": {
         "@id": manifest,
         "@type": "sc:Manifest"
       },
-      "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json/range1",
+      "@id": curation_id + "/range1",
       "label": "Markers",
       "members": members,
       "@type": "sc:Range"
     }
   ],
-  "@id": "https://nakamura196.github.io/suikeichuuzu/curation/test.json",
+  "@id": curation_id,
   "related": {
     "@type": "cr:MarkerLegend",
-    "@id": "https://nakamura196.github.io/suikeichuuzu/etc/legend.pdf"
+    "@id": legend
   }
 }
 
