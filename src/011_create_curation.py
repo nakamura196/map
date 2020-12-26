@@ -82,7 +82,7 @@ for i in range(len(resources)):
     ]
 
     member = {
-          "label": "Marker "+index,
+          "label": cleantext,
           "@type": "sc:Canvas",
           "metadata": metadata,
           "@id": memberId

@@ -19,7 +19,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=2731,6490,7039,7525",
                     "@type": "sc:Canvas",
-                    "label": "Marker 1",
+                    "label": "四川道[道額]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -50,7 +50,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=3983,12595,4760,3639",
                     "@type": "sc:Canvas",
-                    "label": "Marker 2",
+                    "label": "貴州道[道額]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -81,7 +81,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=5869,16716,830,335",
                     "@type": "sc:Canvas",
-                    "label": "Marker 3",
+                    "label": "始安嶺[五嶽]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -112,7 +112,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=10325,15774,672,291",
                     "@type": "sc:Canvas",
-                    "label": "Marker 4",
+                    "label": "衡山[五嶽]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -143,7 +143,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=13692,7984,528,357",
                     "@type": "sc:Canvas",
-                    "label": "Marker 5",
+                    "label": "嵩山[五嶽]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -174,7 +174,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=18840,5998,360,188",
                     "@type": "sc:Canvas",
-                    "label": "Marker 6",
+                    "label": "岱山[五嶽]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -205,7 +205,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=19176,14931,140,322",
                     "@type": "sc:Canvas",
-                    "label": "Marker 7",
+                    "label": "霊隠寺（灵徳寺）[五山]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -236,7 +236,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=19261,14743,131,219",
                     "@type": "sc:Canvas",
-                    "label": "Marker 8",
+                    "label": "浄慈寺[五山]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -267,7 +267,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=21239,15804,119,239",
                     "@type": "sc:Canvas",
-                    "label": "Marker 9",
+                    "label": "廣利寺[五山]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -298,7 +298,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=21653,15705,120,293",
                     "@type": "sc:Canvas",
-                    "label": "Marker 10",
+                    "label": "天童寺[五山]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -329,7 +329,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=14316,2585,447,215",
                     "@type": "sc:Canvas",
-                    "label": "Marker 11",
+                    "label": "恒山[五嶽]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -360,7 +360,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11079,7341,336,234",
                     "@type": "sc:Canvas",
-                    "label": "Marker 12",
+                    "label": "華山[五嶽]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -391,7 +391,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=7874,17633,342,199",
                     "@type": "sc:Canvas",
-                    "label": "Marker 13",
+                    "label": "臨賀嶺[五嶺]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -422,7 +422,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=9836,17851,331,190",
                     "@type": "sc:Canvas",
-                    "label": "Marker 14",
+                    "label": "都龐嶺[五嶺]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -453,7 +453,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11077,17233,338,181",
                     "@type": "sc:Canvas",
-                    "label": "Marker 15",
+                    "label": "騎田嶺[五嶺]",
                     "metadata": [
                         {
                             "label": "Annotation",
@@ -484,7 +484,7 @@
                 {
                     "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1#xywh=11932,18379,346,164",
                     "@type": "sc:Canvas",
-                    "label": "Marker 16",
+                    "label": "大庾嶺[五嶺]",
                     "metadata": [
                         {
                             "label": "Annotation",
