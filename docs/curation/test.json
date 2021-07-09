@@ -7,7 +7,7 @@
     "@type": "cr:Curation",
     "label": "大明地理之図",
     "related": {
-        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/20764,21600,5248,1568/1200,/0/default.jpg",
+        "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/20764,21600,5248,1568/1200,/0/default.jpg",
         "@type": "cr:MarkerLegend"
     },
     "selections": [
@@ -34,7 +34,7 @@
                                         "chars": "四川道",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/25490,21697,277,457/30,60/0/default.jpg#xy=15,30",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/25490,21697,277,457/30,60/0/default.jpg#xy=15,30",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -65,7 +65,7 @@
                                         "chars": "貴州道",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/25490,21697,277,457/30,60/0/default.jpg#xy=15,30",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/25490,21697,277,457/30,60/0/default.jpg#xy=15,30",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -96,7 +96,7 @@
                                         "chars": "始安嶺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -127,7 +127,7 @@
                                         "chars": "衡山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -158,7 +158,7 @@
                                         "chars": "嵩山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -189,7 +189,7 @@
                                         "chars": "岱山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -220,7 +220,7 @@
                                         "chars": "霊隠寺（灵徳寺）",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -251,7 +251,7 @@
                                         "chars": "浄慈寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -282,7 +282,7 @@
                                         "chars": "廣利寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -313,7 +313,7 @@
                                         "chars": "天童寺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23052,21656,156,332/30,60/0/default.jpg#xy=15,30",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -344,7 +344,7 @@
                                         "chars": "恒山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -375,7 +375,7 @@
                                         "chars": "華山",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23588,21668,400,260/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -406,7 +406,7 @@
                                         "chars": "臨賀嶺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -437,7 +437,7 @@
                                         "chars": "都龐嶺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -468,7 +468,7 @@
                                         "chars": "騎田嶺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
@@ -499,7 +499,7 @@
                                         "chars": "大庾嶺",
                                         "format": "text/html",
                                         "marker": {
-                                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/inter_asia_research_network/daiminchiri/001.tif/23200,21684,380,244/60,30/0/default.jpg#xy=30,15",
                                             "@type": "dctypes:Image"
                                         }
                                     }
